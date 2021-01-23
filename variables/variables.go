@@ -4,10 +4,10 @@ import (
 	"fmt"
 )
 
-// initialuzing type of a variable
-// false for booleans, 0 for numeric types, "" for strings, and nil for pointers, functions, interfaces, slices, channels, and maps
-var w int
+var y = 42
 
 func main() {
-	fmt.Println(w)
+	fmt.Println(y)
+	// get type of a certain variable using printf identifier of fmt package
+	fmt.Printf("%T\n", y)
 }
