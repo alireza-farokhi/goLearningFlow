@@ -4,5 +4,5 @@ Learn golang step-by-step with git-branched-base method, im not sure if it is a 
 
 ## GO commands:
 ```bash
-go run ./hello-world/hello.go
+go run ./variables/variables.go
 ```
