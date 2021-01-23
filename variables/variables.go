@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-// can be used etire file
+// can be used etire package (package level variables)
 var h = "use var keyword to declare a variable outside of a function"
 
 /***
